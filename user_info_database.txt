@@ -1,0 +1,1 @@
+["Demetrius", "DemeKoh2004#", "Demetrius", "Koh", "03/06/2004", "+601126269633", "deme@sussybaka.com", {"hall_id": "a01", "event_name": "Cooking Event", "event_description": "Learn how to cook people", "number_of_pax": "500", "date": "24/06/2025", "time": "04:30 pm", "payment_price": "300"}]

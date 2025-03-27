@@ -1,0 +1,1 @@
+["b01", "Banquet Hall 1", "A banquet hall that fits up to 300 people", "300", "100", "m01", "Meeting Room 1", "A meeting room that fits up to 30 people", "30", "50", "a02", "Auditorium 2", "Very nice auditorium", "1200", "350"]
